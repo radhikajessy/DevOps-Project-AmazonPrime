@@ -5,10 +5,8 @@ metadata:
   name: prime-app
   labels:
     app: prime-app
-<<<<<<< HEAD
+
 spec:
-=======
->>>>>>> d1b059a (modified)
   replicas: 1
   selector:
     matchLabels:
